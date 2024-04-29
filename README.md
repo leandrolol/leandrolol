@@ -2,7 +2,7 @@
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=70a1ff&height=130&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3742fa&size=35&center=true&width=790&lines=HELLO,+MY+NAME+is+Leandro+Faustino+Luccas;I'm+24+years+old;I+from+Brazil;I+Graduated+Developer+FullStack+JAVA;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3742fa&size=35&center=true&width=860&lines=HELLO,+MY+NAME+is+Leandro+Faustino+Luccas;I'm+24+years+old;I+from+Brazil;I'm+studying+systems+analysis+and+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <img width="49%" heigth="5px" src="https://github-readme-stats.vercel.app/api?username=leandrolol&show_icons=true&count_private=true&hide_border=true&title_color=ff91a48icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Leandro Faustino Luccas github stats" />
 <img width="41%" heigth="5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrolol&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
