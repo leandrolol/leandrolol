@@ -2,7 +2,7 @@
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=70a1ff&height=130&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3742fa&size=35&center=true&width=860&lines=HELLO,+MY+NAME+is+Leandro+Faustino+Luccas;I'm+24+years+old;I+from+Brazil;I'm+studying+systems+analysis+and+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f1f1f1&size=35&center=true&width=860&lines=HELLO,+MY+NAME+is+Leandro+Faustino+Luccas;I'm+24+years+old;I+from+Brazil;I'm+studying+systems+analysis+and+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <img width="49%" heigth="5px" src="https://github-readme-stats.vercel.app/api?username=leandrolol&show_icons=true&count_private=true&hide_border=true&title_color=ff91a48icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Leandro Faustino Luccas github stats" />
 <img width="41%" heigth="5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrolol&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
@@ -33,11 +33,11 @@
 
 <br>
 
-<img  height="84" width="84" src="https://github-production-user-asset-6210df.s3.amazonaws.com/44561610/312671726-670ce35c-0b3c-4bec-ba1e-797c40ebcfc6.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240429%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240429T025359Z&X-Amz-Expires=300&X-Amz-Signature=4ef02a097c1393f4ab249e3a44db6706c0fd6488a9581f72e760d0e47a63d736&X-Amz-SignedHeaders=host&actor_id=146794496&key_id=0&repo_id=541262417">
+<img  height="84" width="84" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 
-<img height="80" width="80" src="https://github-production-user-asset-6210df.s3.amazonaws.com/44561610/312671733-5d8aa673-1335-459f-a3c8-7149be4296d6.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240429%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240429T025506Z&X-Amz-Expires=300&X-Amz-Signature=5b8f22faae9dd717003fa96930afcadbc54fb4491660686aeb09ffd2e2a3d985&X-Amz-SignedHeaders=host&actor_id=146794496&key_id=0&repo_id=541262417">
+<img height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
-<img height="80" width="80" src="https://github-production-user-asset-6210df.s3.amazonaws.com/44561610/312671741-b8182e38-59d0-4707-96dd-57781d7fa0cd.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240429%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240429T025529Z&X-Amz-Expires=300&X-Amz-Signature=0d6d168a2d9fc02e14ba650bc2fb98a5da06d3e2907d225cdd538e6a8cfe5cc1&X-Amz-SignedHeaders=host&actor_id=146794496&key_id=0&repo_id=541262417">
+<img height="80" width="80" src="https://camo.githubusercontent.com/575b33e86739b657387aaf2598c4f9d6677a60a33718d65e11e0d81cbb7cc09c/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f736173732f736173732d6f726967696e616c2e737667">
 
 <img height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/67a682a9-e93d-4eed-831c-037ec6d536cc">
 
