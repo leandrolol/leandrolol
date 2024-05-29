@@ -6,8 +6,8 @@
 
 ___
 
-
 <h6>PT-BR</h6>
+
 - 👋🏻 Olá, sou o Leandro.
 - 🌎 Sou Brasileiro.
 - 🎓 Faço Análise e Desenvolvimento de Sistemas na UNICID - Cursando 2º Semestre.
