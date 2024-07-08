@@ -25,9 +25,11 @@ ___
 ___
 
  <div>
-   <h3>Contacts</h3>
+   <h3>Contacts 📱</h3>
    <a href = "mailto:leandrodev2023@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/leandrofaustinoluccas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="mailto:leandrodev2023@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a> 
+  
  </div>
 
 ___
