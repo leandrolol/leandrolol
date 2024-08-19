@@ -10,8 +10,8 @@ ___
 
 - 👋🏻 Olá, sou o Leandro.
 - 🌎 Sou Brasileiro.
-- 🎓 Faço Análise e Desenvolvimento de Sistemas na UNICID - Cursando 2º Semestre.
-- 👩🏻‍💻 Estou estudando Desenvolvimento Full Stack JAVA na EBAC - Atualmente 35% do curso concluído.
+- 🎓 Faço Análise e Desenvolvimento de Sistemas na UNICID - Cursando 3º Semestre.
+- 👩🏻‍💻 Estou estudando Desenvolvimento Full Stack JAVA na EBAC - Atualmente 55% do curso concluído.
 - ☕ Aperfeiçoando JAVA no SENAI - Cursando.
 - 💡 Estou disposto a aprender novas tecnologias.
 
